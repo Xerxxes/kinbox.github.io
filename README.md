@@ -27,7 +27,7 @@ Oh noooo I'm breaking down....lol
 
 # :x boids
 
-[https://www.drewgrahamdev.com/games/boids/]
+Here's a [boids](https://www.drewgrahamdev.com/games/boids/) playground for ya!
 
 ## FAQ
 
