@@ -26,3 +26,23 @@ Want to know how? here's [:a breakdown](#ABreakdown).
 
 Oh noooo I'm breaking down....lol
 
+## FAQ
+
+# : Does Kinbox have the vulnerabilities I think it does?
+
+Probably not. You can ask us on tiktok or discord. We've been mighty thorough, though.
+
+# : If Kinbox is such a groundbreaking tool it must be hella complex, right?
+
+Actually, it's pretty simple. We're shocked that nobody else made this tool before us. It just goes to show that sometimes, the answer is hidden in plain sight.
+
+# : Isn't Kinbox redundant? It sounds like so many other apps I've heard of.
+
+It shares some similarities to a wide range of apps, but the cleverness of Kinbox is one of a kind. Feel free to reach out to tell us what it reminds you of!
+
+
+
+
+
+
+
