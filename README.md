@@ -16,7 +16,7 @@ Tech finally doing what tech is for!!! Kinbox keeps the sharing process headache
 
 # : 3. Cool Emergent Effects Happen
 
-Like, just as one example, maybe [:the world gets saved:](#AboutKinbox). Like who knows what can happen if we all lift where we stand. We're all [:boids](https://www.drewgrahamdev.com/games/play/boids/) at the end of the day. 
+Like, just as one example, maybe [:the world gets saved:](#AboutKinbox). Like who knows what can happen if we all lift where we stand. We're all [:boids](#Boids) at the end of the day. 
 ## :x save the world
 
 Want to know how? here's [:a breakdown](#ABreakdown).
@@ -24,6 +24,10 @@ Want to know how? here's [:a breakdown](#ABreakdown).
 ## :x A breakdown
 
 Oh noooo I'm breaking down....lol
+
+# :x boids
+
+[https://www.drewgrahamdev.com/games/boids/]
 
 ## FAQ
 
