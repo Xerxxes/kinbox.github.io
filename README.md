@@ -1,4 +1,4 @@
-## About Kinbox
+## About Kinbox: Better Than Barter
 
 Kinbox might for realsies [:save the world](#SaveTheWorld)!
 
